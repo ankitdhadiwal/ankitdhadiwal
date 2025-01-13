@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **creating an game : Nourish-Net**
 
-- 🌱 I’m currently learning **Solidity, Smart-Contract Development**
+- 🌱 I’m currently learning **Solidity, Smart-Contract Development, Rust **
 
 - 📝 I regularly write articles on [https://medium.com/@ankit.dhadiwal.885](https://medium.com/@ankit.dhadiwal.885)
 
